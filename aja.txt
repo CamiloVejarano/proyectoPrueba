@@ -5,5 +5,3 @@ aja3
 aja4
 
 aja5
-
-aja6
